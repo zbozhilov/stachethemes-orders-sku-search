@@ -1,0 +1,4 @@
+*** Stachethemes Orders SKU Search Changelog ***
+
+2025.02.19 - Version 1.0
+    * Initial Release.
