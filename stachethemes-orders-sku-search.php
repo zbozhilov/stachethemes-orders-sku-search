@@ -2,10 +2,11 @@
 
 /*
 Plugin Name: Stachethemes Orders SKU Search
+Plugin URI: https://woocommerce.com/products/stachethemes-orders-sku-search/
 Description: A WooCommerce extension that allows you to Search Orders by Product SKU in the Admin Panel.
 Version: 1.0
 Author: Stachethemes
-Author URI: https://stachethemes.com
+Author URI: https://woocommerce.com/vendor/stachethemes/
 Text Domain: stachethemes-orders-sku-search
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
