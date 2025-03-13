@@ -13,7 +13,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 6.7
 Requires PHP: 8.0
 WC requires at least: 9.6
-WC tested up to: 9.6.2
+WC tested up to: 9.7.1
 */
 
 if (! defined('ABSPATH')) {
